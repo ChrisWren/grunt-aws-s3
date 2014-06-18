@@ -2,7 +2,7 @@
 
 > Interact with AWS S3 using AWS SDK
 
-## Warning 
+## Warning a
 
 Versions 0.4.0 to 0.5.0 have a bug where `options.params` is ignored.  
 Version 0.8.0 doesn't actually support Node 0.8.x and 0.9.x.
